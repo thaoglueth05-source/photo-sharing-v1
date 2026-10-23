@@ -1,0 +1,19 @@
+.main-topbar-buffer {
+  margin-top: 70px;
+}
+
+.main-grid-item {
+  height: calc(100vh - 85px);
+  padding: 10px;
+}
+.main-grid-item {
+  min-height: calc(100vh - 80px);
+  background: #fafafa;
+}
+
+a {
+  color: #1976d2;
+}
+a:hover {
+  text-decoration: underline;
+}
